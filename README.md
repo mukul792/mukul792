@@ -1,13 +1,25 @@
-## Nice to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h1 align="center">Hi there, I'm Mukul! 👋</h1>
 
-I am Mukul Gupta, a computer science student at [IPEC](https://www.ipec.org.in/). I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+- 🔭 I’m currently working on Backend Development.
+
+- 🌱 I’m currently learning Springboot & React.
+
+- 👯 I’m looking to collaborate on Full Stack Projects.
+
+- 💬 Ask me about programming and tech-related stuff.
+
+- ⚡ Fun fact: I'm trying to be a minimalist.
+
+<br />
+
+## Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/mukulgupta792)](https://www.linkedin.com/in/mukulgupta792)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/_mukulgupta__)](https://instagram.com/_mukulgupta__)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://www.discord.com/users/784324639781814292)](https://www.discord.com/users/784324639781814292)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guptamukul220@gmail.com)](mailto:guptamukul220@gmail.com)
 
-## 🚀💻 Technologies & Tools
+## Technologies & Tools:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -27,4 +39,7 @@ I am Mukul Gupta, a computer science student at [IPEC](https://www.ipec.org.in/)
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mukul792.mukul792)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mukul792/count.svg" />
+</p>
