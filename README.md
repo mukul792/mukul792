@@ -26,6 +26,5 @@ I am Mukul Gupta, a computer science student at [IPEC](https://www.ipec.org.in/)
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mukul792&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mukul792.mukul792)
