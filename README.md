@@ -8,7 +8,7 @@
 
 - 💬 Ask me about programming and tech-related stuff.
 
-- ⚡ Fun fact: I'm trying to be a minimalist.
+- 💡 Fun fact:  "Java" was named after coffee! The developers drank a lot of it. ☕😄
 
 <br />
 
