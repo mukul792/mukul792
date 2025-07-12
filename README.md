@@ -38,8 +38,3 @@
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mukul792/count.svg" />
-</p>
