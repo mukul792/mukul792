@@ -21,6 +21,8 @@
 
 ## Technologies & Tools:
 
+[![My Skills](https://skillicons.dev/icons?i=py,flask,anaconda,java,spring,react,js,html,css,tailwind,mysql,bootstrap,git,github,postman,vscode,idea)](https://skillicons.dev)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
