@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Mukul! 👋</h1>
 
-- 🔭 I’m currently working on Backend Development.
+- 🔭 I’m currently working on Machine Learning projects.
 
-- 🌱 I’m currently learning Springboot & React.
+- 🌱 I’m currently learning Machine Learning.
 
-- 👯 I’m looking to collaborate on Full Stack Projects.
+- 👯 I’m looking to collaborate on Data Science and Machine Learning projects.
 
 - 💬 Ask me about programming and tech-related stuff.
 
-- 💡 Fun fact:  "Java" was named after coffee! The developers drank a lot of it. ☕😄
+- 💡 Fun fact: Artificial Intelligence once beat humans at Go — a game with more possible moves than atoms in the universe! 🌌
 
 <br />
 
@@ -21,9 +21,9 @@
 
 ## Technologies & Tools:
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
