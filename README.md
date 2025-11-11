@@ -21,7 +21,7 @@
 
 ## Technologies & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,anaconda,java,spring,react,js,html,css,tailwind,mysql,bootstrap,git,github,postman,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,flask,anaconda,docker,java,spring,react,js,html,css,tailwind,mysql,bootstrap,git,github,postman,vscode,idea)](https://skillicons.dev)
 
 
 
