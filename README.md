@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Mukul! 👋</h1>
 
-- 🔭 I’m currently working on Machine Learning projects.
+- 🔭 I’m currently working on Machine Learning and Deep Learning projects.
 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Deep Learning.
 
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects.
 
