@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Mukul! 👋</h1>
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning projects.
+- 🔭 I’m currently working on Gen AI projects.
 
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently learning Lang Chain and Vector DB.
 
-- 👯 I’m looking to collaborate on Data Science and Machine Learning projects.
+- 👯 I’m looking to collaborate on AI and ML projects.
 
 - 💬 Ask me about programming and tech-related stuff.
 
