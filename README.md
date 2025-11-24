@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Gen AI projects.
 
-- 🌱 I’m currently learning Lang Chain and Vector DB.
+- 🌱 I’m currently learning RAG and AI agents.
 
 - 👯 I’m looking to collaborate on AI and ML projects.
 
