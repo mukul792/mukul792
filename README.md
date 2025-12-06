@@ -19,6 +19,8 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://www.discord.com/users/784324639781814292)](https://www.discord.com/users/784324639781814292)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guptamukul220@gmail.com)](mailto:guptamukul220@gmail.com)
 
+<br />
+
 ## Technologies & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,flask,anaconda,docker,java,spring,react,js,html,css,tailwind,mysql,bootstrap,git,github,postman,vscode,idea)](https://skillicons.dev)
