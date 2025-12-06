@@ -23,6 +23,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,flask,anaconda,docker,java,spring,react,js,html,css,tailwind,mysql,bootstrap,git,github,postman,vscode,idea)](https://skillicons.dev)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukul792&label=Profile%20views&color=0e75b6&style=flat" alt="mukul792" /> </p>
+
 
 
 
