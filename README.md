@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Mukul! 👋</h1>
+<h1 align="center">Hi there, I'm Mukul! 👋</h1>  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m currently working on Gen AI projects.
+- 🔭 I’m currently working on RAG and AI agents.                                          
 
-- 🌱 I’m currently learning RAG and AI agents.
+- 🌱 I’m currently learning Lang Graph.                
 
 - 👯 I’m looking to collaborate on AI and ML projects.
 
 - 💬 Ask me about programming and tech-related stuff.
 
-- 💡 Fun fact: Artificial Intelligence once beat humans at Go — a game with more possible moves than atoms in the universe! 🌌
+- 💡 Fun fact: AI agents don’t take breaks… unless you forget a semicolon, then they take forever.
 
 - 📝 **Check out my resume:** [My Resume](https://drive.google.com/file/d/1q5n3v5v_uV7JFlDEfN5EW-Yb8qhKjHr3/view?usp=drive_link)
 
