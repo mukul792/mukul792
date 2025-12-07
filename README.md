@@ -10,6 +10,8 @@
 
 - 💡 Fun fact: Artificial Intelligence once beat humans at Go — a game with more possible moves than atoms in the universe! 🌌
 
+- 📝 **Check out my resume:** [My Resume](https://drive.google.com/file/d/1q5n3v5v_uV7JFlDEfN5EW-Yb8qhKjHr3/view?usp=drive_link)
+
 <br />
 
 ## Connect with me:
